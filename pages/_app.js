@@ -1,7 +1,6 @@
 import { createGlobalStyle, ThemeProvider } from "styled-components";
 import db from "../db.json";
 import Head from "next/head";
-import Head from "next/head";
 
 const GlobalStyle = createGlobalStyle`
   * {
