@@ -1,7 +1,10 @@
 import { createGlobalStyle, ThemeProvider } from "styled-components";
 import db from "../db.json";
 <<<<<<< HEAD
+<<<<<<< HEAD
 import Head from "next/head";
+=======
+>>>>>>> a0613381c6645c9fabe6cdb09f9f6ee0d640eb98
 =======
 >>>>>>> a0613381c6645c9fabe6cdb09f9f6ee0d640eb98
 
@@ -35,6 +38,7 @@ export default function App({ Component, pageProps }) {
   return (
     <>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <Head>
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link
@@ -54,6 +58,8 @@ export default function App({ Component, pageProps }) {
         <meta property="og:image:width" content="800" />
         <meta property="og:image:height" content="600" /> */}
       </Head>
+=======
+>>>>>>> a0613381c6645c9fabe6cdb09f9f6ee0d640eb98
 =======
 >>>>>>> a0613381c6645c9fabe6cdb09f9f6ee0d640eb98
       <ThemeProvider theme={theme}>
